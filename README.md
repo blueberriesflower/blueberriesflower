@@ -6,7 +6,7 @@ Welcome to my github
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me)](https://git.io/typing-svg)
 my name is Iiulia
-I'm a 2nd year student of the department of Mathematics and Computer Science at FEFU
+I'm a 3nd year student of the department of Mathematics and Computer Science at FEFU
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7TKuFYevgE2b6Mx2/giphy.gif?cid=790b7611y7py2b1owc8x7tupha11111g6peg1nsd41vdtaoi&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
